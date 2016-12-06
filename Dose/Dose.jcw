@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Dose</label>
+		<id>14</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Dose.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Dose.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>prg_UEB09_2</label>
+		<id>146</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>prg_UEB09_2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\Ueb09\Ueb09.jcp</path>
+		</project>
+		<project>
+			<path>prg_UEB09_2.jcp</path>
+		</project>
+	</projects>
+</workspace>

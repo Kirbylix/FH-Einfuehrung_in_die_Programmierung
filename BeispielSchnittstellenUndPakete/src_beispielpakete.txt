@@ -1,0 +1,7 @@
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\Beispiel\Mitarbeiterverwaltung.java
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\Beispiel\Abt\Abteilung.java
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\Beispiel\Ma\Angestellter.java
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\Beispiel\Ma\Arbeiter.java
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\Beispiel\Ma\Geschaeftsfuehrer.java
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\Beispiel\Ma\Manager.java
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\Beispiel\Ma\Mitarbeiter.java

@@ -1,0 +1,2 @@
+"H:\\DropBox\\FH\\1 Semester\\Einführung in die Programmierung\\workspace\\BruchTest\\src\\Bruch.java"
+"H:\\DropBox\\FH\\1 Semester\\Einführung in die Programmierung\\workspace\\BruchTest\\src\\BruchTest.java"

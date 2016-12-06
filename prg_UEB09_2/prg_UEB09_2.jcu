@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Ueb09</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Ueb09</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\Ueb09\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\Ueb09\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>prg_UEB09_2</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>..\Ueb09\Wochenkalender.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\Ueb09\WochenkalenderUI.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>..\Ueb09\Wochenkalendertest.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

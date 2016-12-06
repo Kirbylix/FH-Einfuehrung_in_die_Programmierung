@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>BeispielSchnittstellenUndPakete</label>
+		<id>88</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>BeispielSchnittstellenUndPakete.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>BeispielSchnittstellenUndPakete.jcp</path>
+		</project>
+		<project>
+			<path>VersicherungInterface\VersicherungInterface.jcp</path>
+		</project>
+	</projects>
+</workspace>

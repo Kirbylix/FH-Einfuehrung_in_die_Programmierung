@@ -1,0 +1,4 @@
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\VersicherungInterface\VersicherungA.java
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\VersicherungInterface\VersicherungB.java
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\VersicherungInterface\VersicherungI.java
+C:\scheben\FH-Dortmund\LEHRE\WS13-14\Programmierung\Quellmaterial\VL13-Schnittstellen-Pakete\BeispielSchnittstellenUndPakete\VersicherungInterface\VersicherungTest.java

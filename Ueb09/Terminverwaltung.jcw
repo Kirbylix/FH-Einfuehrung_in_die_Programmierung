@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Terminverwaltung</label>
+	</settings>
+	<users>
+		<user>
+			<path>Terminverwaltung.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Terminverwaltung.jcp</path>
+		</project>
+	</projects>
+</workspace>
